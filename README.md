@@ -1,4 +1,5 @@
-# Physics Calculation Scripts
+# Solid-State-Physics-Calculators
+(formaly calculations)
 
 This repository contains Python scripts to calculate parameters from linear fits of experimental data.
 
